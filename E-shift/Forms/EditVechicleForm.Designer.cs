@@ -1,0 +1,170 @@
+﻿namespace E_shift.Forms
+{
+    partial class EditVechicleForm
+    {
+        private System.ComponentModel.IContainer components = null;
+        private System.Windows.Forms.Label lblTitle;
+        private System.Windows.Forms.Label lblRegistrationNumber;
+        private System.Windows.Forms.Label lblModel;
+        private System.Windows.Forms.Label lblAvailable;
+        private System.Windows.Forms.TextBox txtRegistrationNumber;
+        private System.Windows.Forms.TextBox txtModel;
+        private System.Windows.Forms.ComboBox cmbAvailable;
+        private System.Windows.Forms.Button btnSave;
+        private System.Windows.Forms.Label lblAssignmentWarning;
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null)) components.Dispose();
+            base.Dispose(disposing);
+        }
+
+        private void InitializeComponent()
+        {
+            this.lblTitle = new System.Windows.Forms.Label();
+            this.lblRegistrationNumber = new System.Windows.Forms.Label();
+            this.lblModel = new System.Windows.Forms.Label();
+            this.lblAvailable = new System.Windows.Forms.Label();
+            this.txtRegistrationNumber = new System.Windows.Forms.TextBox();
+            this.txtModel = new System.Windows.Forms.TextBox();
+            this.cmbAvailable = new System.Windows.Forms.ComboBox();
+            this.btnSave = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.lblAssignmentWarning = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // lblTitle
+            // 
+            this.lblTitle.Font = new System.Drawing.Font("Verdana", 18F, System.Drawing.FontStyle.Bold);
+            this.lblTitle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(73)))), ((int)(((byte)(94)))));
+            this.lblTitle.Location = new System.Drawing.Point(30, 20);
+            this.lblTitle.Name = "lblTitle";
+            this.lblTitle.Size = new System.Drawing.Size(400, 40);
+            this.lblTitle.TabIndex = 0;
+            this.lblTitle.Text = "Edit Vehicle";
+            // 
+            // lblRegistrationNumber
+            // 
+            this.lblRegistrationNumber.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.lblRegistrationNumber.Location = new System.Drawing.Point(30, 80);
+            this.lblRegistrationNumber.Name = "lblRegistrationNumber";
+            this.lblRegistrationNumber.Size = new System.Drawing.Size(115, 25);
+            this.lblRegistrationNumber.TabIndex = 1;
+            this.lblRegistrationNumber.Text = "Registration Number:";
+            // 
+            // lblModel
+            // 
+            this.lblModel.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.lblModel.Location = new System.Drawing.Point(30, 130);
+            this.lblModel.Name = "lblModel";
+            this.lblModel.Size = new System.Drawing.Size(115, 25);
+            this.lblModel.TabIndex = 3;
+            this.lblModel.Text = "Model:";
+            // 
+            // lblAvailable
+            // 
+            this.lblAvailable.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.lblAvailable.Location = new System.Drawing.Point(30, 183);
+            this.lblAvailable.Name = "lblAvailable";
+            this.lblAvailable.Size = new System.Drawing.Size(115, 25);
+            this.lblAvailable.TabIndex = 7;
+            this.lblAvailable.Text = "Available:";
+            // 
+            // txtRegistrationNumber
+            // 
+            this.txtRegistrationNumber.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.txtRegistrationNumber.Location = new System.Drawing.Point(151, 80);
+            this.txtRegistrationNumber.Name = "txtRegistrationNumber";
+            this.txtRegistrationNumber.Size = new System.Drawing.Size(335, 25);
+            this.txtRegistrationNumber.TabIndex = 2;
+            // 
+            // txtModel
+            // 
+            this.txtModel.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.txtModel.Location = new System.Drawing.Point(151, 127);
+            this.txtModel.Name = "txtModel";
+            this.txtModel.Size = new System.Drawing.Size(335, 25);
+            this.txtModel.TabIndex = 4;
+            // 
+            // cmbAvailable
+            // 
+            this.cmbAvailable.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbAvailable.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.cmbAvailable.FormattingEnabled = true;
+            this.cmbAvailable.Items.AddRange(new object[] {
+            "Yes",
+            "No"});
+            this.cmbAvailable.Location = new System.Drawing.Point(151, 180);
+            this.cmbAvailable.Name = "cmbAvailable";
+            this.cmbAvailable.Size = new System.Drawing.Size(335, 25);
+            this.cmbAvailable.TabIndex = 8;
+            // 
+            // btnSave
+            // 
+            this.btnSave.BackColor = System.Drawing.Color.SeaGreen;
+            this.btnSave.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSave.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold);
+            this.btnSave.ForeColor = System.Drawing.Color.White;
+            this.btnSave.Location = new System.Drawing.Point(112, 259);
+            this.btnSave.Name = "btnSave";
+            this.btnSave.Size = new System.Drawing.Size(124, 45);
+            this.btnSave.TabIndex = 9;
+            this.btnSave.Text = "Update";
+            this.btnSave.UseVisualStyleBackColor = false;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(210)))), ((int)(((byte)(4)))), ((int)(((byte)(45)))));
+            this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button2.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.ForeColor = System.Drawing.Color.Snow;
+            this.button2.Location = new System.Drawing.Point(276, 259);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(124, 45);
+            this.button2.TabIndex = 18;
+            this.button2.Text = "Cancel";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.btnCance2_Click);
+            // 
+            // lblAssignmentWarning
+            // 
+            this.lblAssignmentWarning.AutoSize = true;
+            this.lblAssignmentWarning.Font = new System.Drawing.Font("Segoe UI", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAssignmentWarning.ForeColor = System.Drawing.Color.DarkRed;
+            this.lblAssignmentWarning.Location = new System.Drawing.Point(148, 221);
+            this.lblAssignmentWarning.Name = "lblAssignmentWarning";
+            this.lblAssignmentWarning.Size = new System.Drawing.Size(309, 17);
+            this.lblAssignmentWarning.TabIndex = 9;
+            this.lblAssignmentWarning.Text = "Assigned to job — availability can’t be changed.";
+            this.lblAssignmentWarning.Visible = false;
+            // 
+            // EditVechicleForm
+            // 
+            this.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.ClientSize = new System.Drawing.Size(514, 326);
+            this.Controls.Add(this.lblAssignmentWarning);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.lblTitle);
+            this.Controls.Add(this.lblRegistrationNumber);
+            this.Controls.Add(this.txtRegistrationNumber);
+            this.Controls.Add(this.lblModel);
+            this.Controls.Add(this.txtModel);
+            this.Controls.Add(this.lblAvailable);
+            this.Controls.Add(this.cmbAvailable);
+            this.Controls.Add(this.btnSave);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.Name = "EditVechicleForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Edit Vehicle";
+            this.Load += new System.EventHandler(this.EditVechicleForm_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        private System.Windows.Forms.Button button2;
+    }
+}

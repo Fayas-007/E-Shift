@@ -1,0 +1,141 @@
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\bin\Debug\E-shift.exe.config
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\bin\Debug\E-shift.exe
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\bin\Debug\E-shift.pdb
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E-shift.csproj.AssemblyReference.cache
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.AddCustomerForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.AddJobForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.AddLoadForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.AddTransportUnit.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.AdminDashboard.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.ClerkDashboard.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.CreateJobForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.CustomerManagementControl.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.CustomerManagementForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.DriverDashboard.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.EditCustomer.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.EditJobForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.EditLoadForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.EditTransportUnit.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.JobManagementControl.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.LoadManagementControl.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.Login.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Forms.TransportUnitManagementControl.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E_shift.Properties.Resources.resources
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E-shift.csproj.GenerateResource.cache
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E-shift.csproj.CoreCompileInputs.cache
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E-shift.exe
+D:\Esoft - Degree\Sem 1 Assignments\E-shift\E-shift\obj\Debug\E-shift.pdb
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E-shift.csproj.AssemblyReference.cache
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.ReportViewers.ContainerReportViewer.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.AddContainerForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.AddCustomerForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.AddJobForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.AddLoadForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.AddTransportUnit.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.AddUserForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.AddVehicleForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.ReportViewers.UsersReportViewer.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.ReportViewers.VehicleReportViewer.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.AssignedLoadsControl.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.EditUserForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.ContainerManagementControl.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.CustomerManagementControl.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.EditContainerForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.EditCustomer.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.EditJobForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.EditLoadForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.EditTransportUnit.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.EditVechicleForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.JobManagementControl.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.LoadManagementControl.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.Login.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.SharedDashboard.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.TransportUnitManagementControl.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.UserManagementControl.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.VehicleManagementControl.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Properties.Resources.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E-shift.csproj.GenerateResource.cache
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E-shift.csproj.CoreCompileInputs.cache
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\Reports\CustomerReport.rdlc
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\Reports\UsersReport.rdlc
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\Reports\VehicleReport.rdlc
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\E-shift.exe.config
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\E-shift.exe
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\E-shift.pdb
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\EnvDTE.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\stdole.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.ReportViewers.CustomerReportViewer.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E-shift.csproj.Up2Date
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E-shift.exe
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E-shift.pdb
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\bin\Debug\Reports\LoadReport.rdlc
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.ReportViewers.LoadReportViewer.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.ReportViewers.JobReportViewer.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.ReportViewers.TransportUnitReportViewer.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.Customer.CustomerDashboard.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.Customer.SignUp.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.Customer.CustomerLoadsControl.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.Customer.CustomerJobControl.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.Customer.AddJobForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.Customer.AddLoadForm.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.AdminDashboard.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.Customer.EditJobFormCus.resources
+D:\Esoft - Degree\Sem 1 Assignments\App Dev\E-shift\E-shift\obj\Debug\E_shift.Forms.Customer.EditLoadFormCus.resources

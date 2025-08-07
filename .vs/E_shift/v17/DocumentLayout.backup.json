@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|d:\\esoft - degree\\sem 1 assignments\\app dev\\e-shift\\e-shift\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\authentication service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\authentication service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\customer\\editjobformcus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\customer\\editjobformcus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\reports\\transportunitreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\reports\\transportunitreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\reportviewers\\transportunitreportviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\reportviewers\\transportunitreportviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\management(admin)\\transpotmanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\management(admin)\\transpotmanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\management(admin)\\jobmanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\management(admin)\\jobmanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\management(admin)\\jobmanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\management(admin)\\jobmanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\management(admin)\\usermanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\management(admin)\\usermanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\management(admin)\\usermanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\management(admin)\\usermanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\management(admin)\\edituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\management(admin)\\edituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\customer\\customerjobcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\customer\\customerjobcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\customer\\customerjobcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\customer\\customerjobcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\management(admin)\\containersmanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\management(admin)\\containersmanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\management(admin)\\containersmanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\management(admin)\\containersmanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\management(admin)\\customermanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\management(admin)\\customermanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\management(admin)\\customermanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\management(admin)\\customermanagementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\management(admin)\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\management(admin)\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\management(admin)\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\management(admin)\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\customer\\customerloadscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\customer\\customerloadscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\customer\\customerloadscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\customer\\customerloadscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\customer\\editloadformcus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\customer\\editloadformcus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\customer\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\customer\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\forms\\customer\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\forms\\customer\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\e-shift\\reports\\jobreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{CA53A3BD-EFCA-4A4D-9B79-8F7D13C021DB}|E-shift\\E-shift.csproj|solutionrelative:e-shift\\reports\\jobreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "database.cs",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Database\\database.cs",
+              "RelativeDocumentMoniker": "E-shift\\Database\\database.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Database\\database.cs",
+              "RelativeToolTip": "E-shift\\Database\\database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:59:03.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Authentication Service\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "E-shift\\Authentication Service\\AuthenticationService.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Authentication Service\\AuthenticationService.cs",
+              "RelativeToolTip": "E-shift\\Authentication Service\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:58:53.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransportUnitReport.rdlc [Design]",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Reports\\TransportUnitReport.rdlc",
+              "RelativeDocumentMoniker": "E-shift\\Reports\\TransportUnitReport.rdlc",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Reports\\TransportUnitReport.rdlc [Design]",
+              "RelativeToolTip": "E-shift\\Reports\\TransportUnitReport.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-07-22T17:49:00.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TranspotManagementControl.cs [Design]",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\TranspotManagementControl.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Management(Admin)\\TranspotManagementControl.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\TranspotManagementControl.cs [Design]",
+              "RelativeToolTip": "E-shift\\Forms\\Management(Admin)\\TranspotManagementControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:48:39.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobManagementControl.cs",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\JobManagementControl.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Management(Admin)\\JobManagementControl.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\JobManagementControl.cs",
+              "RelativeToolTip": "E-shift\\Forms\\Management(Admin)\\JobManagementControl.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAkwN4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:26:19.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditJobFormCus.cs [Design]",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Customer\\EditJobFormCus.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Customer\\EditJobFormCus.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Customer\\EditJobFormCus.cs [Design]",
+              "RelativeToolTip": "E-shift\\Forms\\Customer\\EditJobFormCus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:07:40.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransportUnitReportViewer.cs [Design]",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\ReportViewers\\TransportUnitReportViewer.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\ReportViewers\\TransportUnitReportViewer.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\ReportViewers\\TransportUnitReportViewer.cs [Design]",
+              "RelativeToolTip": "E-shift\\Forms\\ReportViewers\\TransportUnitReportViewer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:48:44.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobManagementControl.cs [Design]",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\JobManagementControl.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Management(Admin)\\JobManagementControl.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\JobManagementControl.cs [Design]",
+              "RelativeToolTip": "E-shift\\Forms\\Management(Admin)\\JobManagementControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:26:19.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContainersManagementControl.cs [Design]",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\ContainersManagementControl.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Management(Admin)\\ContainersManagementControl.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\ContainersManagementControl.cs [Design]",
+              "RelativeToolTip": "E-shift\\Forms\\Management(Admin)\\ContainersManagementControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:29:35.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerManagementControl.cs",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\CustomerManagementControl.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Management(Admin)\\CustomerManagementControl.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\CustomerManagementControl.cs",
+              "RelativeToolTip": "E-shift\\Forms\\Management(Admin)\\CustomerManagementControl.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAYwEABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:09:09.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserManagementControl.cs",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\UserManagementControl.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Management(Admin)\\UserManagementControl.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\UserManagementControl.cs",
+              "RelativeToolTip": "E-shift\\Forms\\Management(Admin)\\UserManagementControl.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAADwv9AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T18:57:08.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditUserForm.cs [Design]",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\EditUserForm.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Management(Admin)\\EditUserForm.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\EditUserForm.cs [Design]",
+              "RelativeToolTip": "E-shift\\Forms\\Management(Admin)\\EditUserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:58:09.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerManagementControl.cs [Design]",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\CustomerManagementControl.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Management(Admin)\\CustomerManagementControl.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\CustomerManagementControl.cs [Design]",
+              "RelativeToolTip": "E-shift\\Forms\\Management(Admin)\\CustomerManagementControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:09:08.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserManagementControl.cs [Design]",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\UserManagementControl.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Management(Admin)\\UserManagementControl.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\UserManagementControl.cs [Design]",
+              "RelativeToolTip": "E-shift\\Forms\\Management(Admin)\\UserManagementControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T18:57:07.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerJobControl.cs",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Customer\\CustomerJobControl.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Customer\\CustomerJobControl.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Customer\\CustomerJobControl.cs",
+              "RelativeToolTip": "E-shift\\Forms\\Customer\\CustomerJobControl.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAArwLgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:48:26.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerJobControl.cs [Design]",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Customer\\CustomerJobControl.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Customer\\CustomerJobControl.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Customer\\CustomerJobControl.cs [Design]",
+              "RelativeToolTip": "E-shift\\Forms\\Customer\\CustomerJobControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:49:48.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContainersManagementControl.cs",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\ContainersManagementControl.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Management(Admin)\\ContainersManagementControl.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\ContainersManagementControl.cs",
+              "RelativeToolTip": "E-shift\\Forms\\Management(Admin)\\ContainersManagementControl.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAQwPcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:29:36.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddUserForm.cs [Design]",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\AddUserForm.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Management(Admin)\\AddUserForm.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\AddUserForm.cs [Design]",
+              "RelativeToolTip": "E-shift\\Forms\\Management(Admin)\\AddUserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:46:26.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddUserForm.cs",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\AddUserForm.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Management(Admin)\\AddUserForm.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Management(Admin)\\AddUserForm.cs",
+              "RelativeToolTip": "E-shift\\Forms\\Management(Admin)\\AddUserForm.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:46:29.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerLoadsControl.cs",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Customer\\CustomerLoadsControl.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Customer\\CustomerLoadsControl.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Customer\\CustomerLoadsControl.cs",
+              "RelativeToolTip": "E-shift\\Forms\\Customer\\CustomerLoadsControl.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAnwFwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:12:49.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditLoadFormCus.cs [Design]",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Customer\\EditLoadFormCus.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Customer\\EditLoadFormCus.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Customer\\EditLoadFormCus.cs [Design]",
+              "RelativeToolTip": "E-shift\\Forms\\Customer\\EditLoadFormCus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:07:54.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerLoadsControl.cs [Design]",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Customer\\CustomerLoadsControl.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Customer\\CustomerLoadsControl.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Customer\\CustomerLoadsControl.cs [Design]",
+              "RelativeToolTip": "E-shift\\Forms\\Customer\\CustomerLoadsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:12:46.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Customer\\SignUp.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Customer\\SignUp.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Customer\\SignUp.cs",
+              "RelativeToolTip": "E-shift\\Forms\\Customer\\SignUp.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswJwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T10:28:20.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Customer\\SignUp.cs",
+              "RelativeDocumentMoniker": "E-shift\\Forms\\Customer\\SignUp.cs",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Forms\\Customer\\SignUp.cs [Design]",
+              "RelativeToolTip": "E-shift\\Forms\\Customer\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T10:28:16.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JobReport.rdlc [Design]",
+              "DocumentMoniker": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Reports\\JobReport.rdlc",
+              "RelativeDocumentMoniker": "E-shift\\Reports\\JobReport.rdlc",
+              "ToolTip": "D:\\Esoft - Degree\\Sem 1 Assignments\\App Dev\\E-shift\\E-shift\\Reports\\JobReport.rdlc [Design]",
+              "RelativeToolTip": "E-shift\\Reports\\JobReport.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-07-18T14:44:46.421Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
