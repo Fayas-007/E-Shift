@@ -13,20 +13,6 @@ namespace E_shift
         [STAThread]
         static void Main()
         {
-            //Application.EnableVisualStyles();
-            //Application.SetCompatibleTextRenderingDefault(false);
-
-            //// Create the User object with given details
-            //var user = new User
-            //{
-            //    UserID = 2,
-            //    Username = "manager1",
-            //    Password = "hmSFeWz6jXwM9xEWQCBbgwdkM1R1d1EdgfgDCumezqU=",
-            //    Role = "manager",
-            //};
-
-            //// Pass the User object to EmployeeDashboard
-            //Application.Run(new EmployeeDashboard(user));
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
